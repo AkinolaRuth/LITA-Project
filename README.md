@@ -4,6 +4,15 @@
 ---
 ## Project Title: Sales Analysis
 
+[Project Overview](#project-overview) 
+[Data Sources](#data-sources)
+[Data Sources](#data-sources)
+[Tools Used](#tools-used)
+[Data Cleaning and Preparations](#data-cleaning-and-preparations) 
+[Data Analysis Exploration](#data-analysis-exploration)
+[Data Analysis](#data-analysis)
+[Data Visualization](#data-visualization)
+
 ### Project Overview
 ---
 This Data Aanalysis Project Aims to give a comprehensive insite into the sales Performance of the E project documented over a period of a year. By compprehensively analysing th various parameters provide using tools such as Microsoft Excel, SQL and Power BI, we seek to tell a story from the insite gotten and to also know the level of performance from our data.
