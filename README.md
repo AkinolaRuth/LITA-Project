@@ -10,6 +10,24 @@ This Data Aanalysis Project Aims to give a comprehensive insite into the sales P
 The primary source of data used here is LITA Capstone Data.exl and this can be downloaded on the LITA LMS Platform (Canvas). 
 
 ### Tools Used
-- Microsoft Excel for Data cleaning, Analysis and Visualization
+- Microsoft Excel [Downloed Here](https://www.microsoft.com)
+   1. For Data cleaning
+   2. Analysis
+   3. Visualization
 - SQL- Structured Query Language for Querying of Data
 - GitHub for Potfolio Building
+
+  ###Data Cleaning and Preparations
+  In the Initial Stage of Data Cleaning and preparation, the following was done:
+  1. Data Loading and Inspection
+  2. Data Cleaning and Formatting
+  3. Eliminating Data Duplicate
+
+  ### Data Analysis Exploration
+  This involved the exploration of data to answer key questions about the data provided. some of theis questions where solved as thus:
+  - Calculating calculated column using microsoft excel functions
+  - Data Visualization using Pivot Table and Pivot Chat
+  - Knowing Top Sales by the Region
+  - Which Product has top sales
+  - What is the overall Sales trend
+  - What is the overall Revenue 
