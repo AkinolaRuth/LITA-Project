@@ -17,7 +17,7 @@ The primary source of data used here is LITA Capstone Data.exl and this can be d
 - SQL- Structured Query Language for Querying of Data
 - GitHub for Potfolio Building
 
-  ###Data Cleaning and Preparations
+  ### Data Cleaning and Preparations
   In the Initial Stage of Data Cleaning and preparation, the following was done:
   1. Data Loading and Inspection
   2. Data Cleaning and Formatting
@@ -30,4 +30,11 @@ The primary source of data used here is LITA Capstone Data.exl and this can be d
   - Knowing Top Sales by the Region
   - Which Product has top sales
   - What is the overall Sales trend
-  - What is the overall Revenue 
+  - What is the overall Revenue
+
+    ### Data Analysis
+    This includes some basic lines of code, queries and DAX expressions used during this anlysis. some of this are;
+    
+    ```SQL
+    Create Sales Table
+    ```
