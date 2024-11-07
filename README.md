@@ -40,5 +40,5 @@ The primary source of data used here is LITA Capstone Data.exl and this can be d
     ```SQL
     Create Sales Table
     ```
-
+### Data Visualization
     
